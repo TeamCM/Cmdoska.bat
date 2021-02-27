@@ -1,0 +1,1 @@
+start cmdoska.bat && exit 
